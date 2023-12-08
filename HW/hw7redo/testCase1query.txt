@@ -1,0 +1,5 @@
+-q polo-g up-smash
+-q laroi all
+-d up-tilt 4
+-f jab 20
+-s forward-smash 11
